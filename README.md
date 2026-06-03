@@ -169,10 +169,9 @@ skills = {
 ## 🎯 2026 Goals
 
 - ✅ Improve Data Structures & Algorithms
-- ✅ Master MERN Stack
+- ✅ Master JAVA Full Stack
 - ✅ Build AI-powered Applications
 - ✅ Learn Machine Learning
-- ✅ Contribute to Open Source
 - ✅ Secure Software Developer Role
 
 ---
@@ -190,7 +189,7 @@ skills = {
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="#">
+<a href="https://www.linkedin.com/in/pokala-somesh/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
