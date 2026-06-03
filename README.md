@@ -121,8 +121,6 @@ React.js | Node.js | Express.js | MongoDB
 
 🏅 Participated in TCS CodeVita
 
-🏅 NSS Digital Literacy Campaign Volunteer
-
 🏅 Built Multiple Full Stack Projects
 
 ---
@@ -130,8 +128,6 @@ React.js | Node.js | Express.js | MongoDB
 ## 📜 Certifications
 
 📌 Fundamentals of AI – SWAYAM NPTEL
-
-📌 Deep Learning Foundations – Udemy
 
 📌 Programming in C – Byts
 
